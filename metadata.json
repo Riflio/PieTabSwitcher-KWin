@@ -1,0 +1,16 @@
+{
+  "KPackageStructure": "KWin/WindowSwitcher",
+  "KPlugin": {
+    "Authors": [
+      {
+        "Email": "2me@pavelk.ru",
+        "Name": "Pavel K"
+      }
+    ],
+    "Description": "Pie Switcher",
+    "Id": "pie",
+    "License": "GPL",
+    "Name": "Pie",
+    "Version": "1.0"
+  }
+}
