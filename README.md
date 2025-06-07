@@ -1,7 +1,5 @@
 # PieTabSwitcher-KWin
 
-![Logo](readme/logo.png)
-
 Windows switch in the form of circle sectors for KWin (KDE Plasma6)
 
 ![Preview](readme/preview1.png)
